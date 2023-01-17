@@ -1,10 +1,12 @@
 # TiddlyWiki简易指南之墨屉钓鱼版
 
+本仓库用于存储墨屉简易指南以及发布PDF版简易教程。
+
 ## 简单介绍
 
 这是一份文件夹版TiddlyWiki，也是一份线性tiddlywiki教程，你可以下载后，使用[TidGi](https://github.com/tiddly-gittly/TidGi-Desktop)、[TiddlyDesktop](https://github.com/TiddlyWiki/TiddlyDesktop/releases)或者NodeJS版TiddlyWiki打开。更新的内容可以参考GitHub的历史提交记录。最新版wiki请下载或者克隆到本地后查看。目前主要发布方式为PDF和知乎。
 
-知乎（文章+问答阅读量15647）：[TiddlyWiki简易指南（教程）](https://zhuanlan.zhihu.com/p/555893660)、[毫无编程基础的小白该如何使用TiddlyWiki?](https://www.zhihu.com/question/513050899/answer/2636426911)
+知乎（文章+问答阅读量17688）：[TiddlyWiki简易指南（教程）](https://zhuanlan.zhihu.com/p/555893660)、[毫无编程基础的小白该如何使用TiddlyWiki?](https://www.zhihu.com/question/513050899/answer/2636426911)
 
 TiddlyWiki简易教程PDF版下载地址：https://github.com/tiddly-gittly/TiddlyWiki-Easy-Guide-to-TiddlyMemo-Edition/releases/latest
 
